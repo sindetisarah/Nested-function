@@ -10,3 +10,5 @@ function names(){
 
 }
 names()
+var a="sarah"
+typeof(a)
